@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Tyler Chandler,
+I am interested in learning more about the C programming language and improving my coding skills. I am also interested in learning more about Git.
+
+In addition to working on this class, I participate in the Make To Innovate program. I am also working towards a minor in Astronomy.
+
+My favorite hobbies are stargazing and playing video games.
+
+May this semester go well for everyone. I look forward to working on the final project.
 
 <!--
 **Tylerc014/Tylerc014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
